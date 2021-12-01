@@ -1,0 +1,17 @@
+.nav-items {
+	float: right;
+}
+  
+.topnav-item {
+	color: #f2f2f2;
+	text-align: center;
+	padding: 10px 24px;
+	text-decoration: none;
+	font-size: 17px;
+	border-radius: 4px;
+}
+
+.topnav-item:hover {
+	background-color: #042d53;
+	color: #f2f2f2;
+}

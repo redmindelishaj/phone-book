@@ -1,0 +1,17 @@
+.site-layout-header {
+	position: sticky;
+	top: 0;
+	z-index: 1;
+	width: 100%;
+}
+
+.site-layout-content {
+	min-height: 280px;
+	padding: 24px;
+	margin: 32px;
+	background: #fff;
+}
+
+.site-layout-footer {
+	text-align: center;
+}
